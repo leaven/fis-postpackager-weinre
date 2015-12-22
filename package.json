@@ -1,0 +1,11 @@
+{
+  "name": "fis-postpackager-weinre",
+  "version": "1.0.0",
+  "description": "用于fis自动嵌入weinre脚本的插件 ## 用法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liwei",
+  "license": "ISC"
+}
